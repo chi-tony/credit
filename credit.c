@@ -1,3 +1,6 @@
+// Determines if a credit card number is valid, and whether it is a Visa, Mastercard, or American Express number.
+// Uses helper functions from CS50 library
+
 #include <cs50.h>
 #include <stdio.h>
 
